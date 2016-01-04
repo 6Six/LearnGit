@@ -1,2 +1,1 @@
-# LearnGit
-This is used for learning git.
+# this is used for learning git.
