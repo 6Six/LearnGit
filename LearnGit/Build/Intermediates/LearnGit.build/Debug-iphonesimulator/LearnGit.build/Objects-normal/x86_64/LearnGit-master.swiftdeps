@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "7a42e09429babe983018d4cb90a491d3"
+build_time: [505212438, 728771000]
+inputs:
+  "/Users/apple/Desktop/mywork/myCode/LearnGit/LearnGit/LearnGit/LearnGit/AppDelegate.swift": [505212394, 0]
+  "/Users/apple/Desktop/mywork/myCode/LearnGit/LearnGit/LearnGit/LearnGit/ViewController.swift": [505212427, 0]
